@@ -1,4 +1,4 @@
-
+<img  src="img/logo.ico">
 
 # 🎉 Generador de QR - ¡Haz que tus enlaces cobren vida! 🎉
 

@@ -1,6 +1,7 @@
 <div align="center">
 <img  src="img/logo.ico">
 </div>
+
 # 🎉 Generador de QR - ¡Haz que tus enlaces cobren vida! 🎉
 
 ¡Bienvenido al mágico mundo de los códigos QR! 🚀 ¿Alguna vez has querido convertir un simple enlace en un código que puedas escanear y compartir? ¡Estás en el lugar correcto!
